@@ -1,3 +1,5 @@
+#!/usr/local/bin/python
+
 import random
 import re
 import sys
