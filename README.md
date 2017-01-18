@@ -7,7 +7,7 @@ This is a Docker wrapper around the [Python port](https://github.com/tommeagher/
 In order to run this, you simply have to supply a couple of variable to to docker. Simply do a `docker run` like this:
 
 ```bash
-docker run -e CONSUMER_KEY="cK5udZxE0h5xxt9FeYleP7sCW" \
+docker run -e CONSUMER_KEY="<your twitter consumer key>" \
     -e CONSUMER_SECRET="<your twitter consumer secret>" \
     -e ACCESS_TOKEN_KEY="<your twitter access token>" \
     -e ACCESS_TOKEN_SECRET="<your twitter access token secret>" \
