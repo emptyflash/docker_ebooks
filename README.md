@@ -17,7 +17,7 @@ docker run -e CONSUMER_KEY="cK5udZxE0h5xxt9FeYleP7sCW" \
     -e ODDS="1"  # see below \
     -e ORDER="2" # see below \
     -it \
-  docker_ebooks
+  emptyflash/docker_ebooks
 ```
 
 
